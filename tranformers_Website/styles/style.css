@@ -1,0 +1,55 @@
+body{
+  background-color: #333
+}
+h1{
+  font-family: "tahoa";
+  text-align: center;
+  color: #fff
+}
+h2{
+  font-family: "tahoa";
+  text-align: center;
+  color: #fff
+  
+}
+.texto{
+  color: #ddd;
+  font-size: 15px;
+  text-align: center;
+}
+.imagenes{
+  font-family: "tahoa";
+  color: #fff;
+  border:solid,6px, #D4AA37;
+  display: block; 
+  margin: auto;
+  border-radius: 4px;
+  width: 199px;
+  height: 253;
+}
+p{
+  font-family: "tahoa";
+  text-align: center;
+  color: #fff;
+}
+.fondo{
+  background: #700;
+  text-decoration: 
+}
+input{
+  display: block;
+  margin: auto;
+  margin-top: 12px;
+  block-size: 50px;
+}
+.imagenes_largas{
+  border:solid,6px, #A9A9A9;
+  display: block; 
+  margin: auto;
+  border-radius: 4px;
+  width: 98%;
+  height: 100%;
+}
+a{
+  text-decoration: none;
+}
